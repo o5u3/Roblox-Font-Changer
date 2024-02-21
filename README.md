@@ -7,6 +7,9 @@ Automatically change your Roblox Client's Font to your custom one.
 ## Where is the download?
   [Download](https://github.com/o5u3/Roblox-Font-Changer/releases)
 
+## How do I use this?
+  Refer to the [video tutorial](https://youtu.be/QGtSoWn7cDQ?si=qnwcrl3viARZ2kXn)
+
 ## Will RoFont cause issues with my device?
   No, this only focuses on the Roblox directory and the folder with RoFont.
 
