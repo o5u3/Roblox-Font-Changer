@@ -11,7 +11,7 @@ Automatically change your Roblox Client's Font to your custom one.
   No, this only focuses on the Roblox directory and the folder with RoFont.
 
 ## Will this work with Bloxstrap?
-  Yes, if you wanted to change your Roblox font for the NORMAL Roblox you would have to uninstall Bloxstrap.
+  Yes, if you wanted to change your Roblox font for the NORMAL Roblox you would have to uninstall Bloxstrap. However, Bloxstrap already has this feature so RoFont is mainly intended for the normal Roblox client.
 
 ## Technical Support
 - Visit the [Discord](https://discord.gg/CZUfHYHtZr) server for support.
